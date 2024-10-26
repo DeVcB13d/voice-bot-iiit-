@@ -1,0 +1,5 @@
+user:Hi
+user:Hiiu
+bot:Hey there! How's it going?
+user:Write me a tear
+bot:Could you clarify what you mean by "tear"? Are you looking for a script, emotional passage, or something else?
